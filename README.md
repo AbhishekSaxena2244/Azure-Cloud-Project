@@ -1,4 +1,4 @@
-# Azure-Cloud-Project
+# Azure Project 2
 Implementation of Virtual Network Peering and Role Based Access Control (RBAC) for an organization.
 
 OBJECTIVE: To connect Internet workloads using Virtual Network Peering and assign a Custom Role for operating these workloads.
